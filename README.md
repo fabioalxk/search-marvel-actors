@@ -3,6 +3,10 @@
 This is a Node.js application that uses TheMovieDB API  [TheMovieDB API] (https://developers.themoviedb.org/3) to get to know about the relationship between the Marvel Actors and Marvel Movies.
 
 ## Project Setup
+
+### Video of me explaining how to setup the project
+Watch the following video to get to know me a little better
+https://drive.google.com/file/d/1Cy1F_JYXaZJ1cE_ST7mccLxW0XN03-vf/view?usp=sharing
 ### Install server dependencies
 
 ```bash
