@@ -32,7 +32,6 @@ const getAllMarvelMovies = async () => {
   }
 }
 
-
 //  Each movie has a Cast List, which is a list of all cast members.
 const populateMarvelMoviesCast = async (allMarvelMoviesList) => {
   const promises = [];
