@@ -7,3 +7,4 @@ app.use("/api/movies", require("./routes/api/movies"));
 
 const PORT = 5000;
 app.listen(PORT, console.log(`Server started on PORT ${PORT}`));
+module.exports = app;

@@ -39,7 +39,7 @@ router.get("/searchMoviesByActor", async (req, res) => {
 });
 
 // Question 1
-// @route    GET /api/movies/actorsplayed
+// @route    GET /api/movies/marvelMoviesPlayedByActorList
 // @desc     Get all marvel movies that each actor in the given list played
 // @access   Public
 router.post("/marvelMoviesPlayedByActorList", async (req, res) => {
